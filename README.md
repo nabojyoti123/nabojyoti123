@@ -1,28 +1,26 @@
-# Hi, I'm Nabojyoti 👋
+# Hi, I'm Nabojyoti Nath 👋
 
-### Frontend Developer | Clean UI & Performance Specialist
+### Frontend Engineer | UI Architect | GenAI Developer
 
-I am a dedicated **Frontend Developer** with over 3.8 years of experience building responsive, high-performance, and pixel-perfect websites. My focus is on translating complex designs into functional web applications while ensuring optimal SEO and user experience.
+I am a **Frontend Engineer** with 3.8+ years of experience building high-performance, pixel-perfect user interfaces. I specialize in turning complex Figma layouts into scalable code, bridging the gap between design systems, robust JavaScript logic, and intelligent generative interfaces.
+---
+### 🛠️ Technical Stack & Skills
+
+*   **Core Frontend:** JavaScript (ES6+), Semantic HTML5, CSS3 Architecture (Tailwind/BEM)
+*   **Modern Frameworks:** React, Component-Driven Development, Figma-to-React Pipelines
+*   **GenAI UI Integration:** Vercel AI SDK, Generative UI Patterns, LLM API Integration
+*   **CMS Architecture & SEO:** Custom WordPress Theme Development, Headless WordPress, Off-page SEO
+*   **Performance Engineering:** Core Web Vitals Optimization, Technical UI Debugging
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Core Frontend:** JavaScript (ES6+), HTML5, CSS3, Responsive Design
-- **Modern Workflow:** React, Component-based Architecture
-- **CMS & UI:** WordPress Theme Development, UI Engineering
-- **Optimization:** Web Performance Optimization, Technical SEO Fixes, Clean Code Architecture
+### ⚡ Current R&D Focus
+*   **Generative UI:** Engineering adaptive, AI-driven layouts based on runtime LLM responses.
+*   **Data Structures & Algorithms:** Optimizing complex frontend state and rendering logic.
 
 ---
 
-### ⚡ Currently Focusing On
-- Deepening expertise in **React** and modern frontend engineering.
-- Solving complex logic through **Data Structures & Algorithms**.
-- Enhancing web accessibility and interface performance.
+### 📬 Let's Connect
 
----
-
-### 📬 Connect with Me
-- **LinkedIn:** [in/nabojyoti-nath-852710168](https://www.linkedin.com/in/nabojyoti-nath-852710168/)
-- **X (Twitter):** [@Nabojyotinath](https://twitter.com/Nabojyotinath)
-
-*Open to frontend opportunities and interesting collaborations.*
+*   **LinkedIn:** [in/nabojyoti-nath-852710168](https://www.linkedin.com/in/nabojyoti-nath-852710168/)
+*   **X (Twitter):** [@Nabojyotinath](https://twitter.com/Nabojyotinath)
