@@ -22,5 +22,5 @@ I started as a **WordPress Dev** and now transitioned into a  **Frontend Enginee
 
 ### 📬 Let's Connect
 
-*   **LinkedIn:** [in/nabojyoti-nath-852710168](https://www.linkedin.com/in/nabojyoti-nath-852710168/)
+*   **LinkedIn:** [@nabojyoti-nath](www.linkedin.com/in/nabojyoti-nath)
 *   **X (Twitter):** [@Nabojyotinath](https://twitter.com/Nabojyotinath)
