@@ -12,13 +12,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a Frontend and WordPress Developer with around 2.5 years of frontend-focused experience.
+I'm a Frontend and WordPress Developer with around 3.5 years of frontend-focused experience.Overall, 4+ years of experience
 
 I started my development journey with WordPress and gradually expanded my skills into frontend development. I enjoy transforming design ideas into responsive, functional websites and improving existing interfaces.
 
 - 💻 Working with HTML, CSS, JavaScript and WordPress.
 - 🎨 Building responsive layouts and user-friendly interfaces.
-- ⚡ Interested in website performance and UI optimization.
+- ⚡ Interested in website performance and UI optimisation.
 - 🌱 Currently strengthening JavaScript and React.js.
 - 📚 Exploring TypeScript and Next.js.
 - 🎯 Interested in remote Frontend Developer and WordPress Developer opportunities.
@@ -39,8 +39,8 @@ I started my development journey with WordPress and gradually expanded my skills
 - WordPress
 - Elementor
 - WooCommerce
-- Theme Customization
-- Website Optimization
+- Theme Customisation
+- Website Optimisation
 
 **Currently Learning**
 - React.js
