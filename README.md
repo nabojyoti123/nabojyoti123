@@ -1,26 +1,91 @@
-# Hi, I'm Nabojyoti Nath 👋
 
-### Frontend Engineer | UI Architect | GenAI Developer | Wordpress Dev
+<h1 align="center">Hi, I'm Nabojyoti Nath 👋</h1>
 
-I started as a **WordPress Dev** and now transitioned into a  **Frontend Engineer** with 3.9+ years of Overall experience building high-performance, pixel-perfect user interfaces. I specialize in turning complex Figma layouts into scalable code, bridging the gap between design systems, robust JavaScript logic, and intelligent generative interfaces.
----
-### 🛠️ Technical Stack & Skills
+<h3 align="center">Frontend & WordPress Developer | Building Responsive Web Experiences</h3>
 
-*   **Core Frontend:** JavaScript (ES6+), Semantic HTML5, CSS3 Architecture (Tailwind/BEM)
-*   **Modern Frameworks:** React, Component-Driven Development, Figma-to-React Pipelines
-*   **GenAI UI Integration:** Vercel AI SDK, Generative UI Patterns, LLM API Integration
-*   **CMS Architecture & SEO:** Custom WordPress Theme Development, Headless WordPress, Off-page SEO, SEO Best practices
-*   **Performance Engineering:** Core Web Vitals Optimization, Technical UI Debugging
+<p align="center">
+  I build responsive, user-friendly websites with a focus on clean UI,
+  performance, and practical problem-solving.
+</p>
 
 ---
 
-### ⚡ Current R&D Focus
-*   **Generative UI:** Engineering adaptive, AI-driven layouts based on runtime LLM responses.
-*   **Data Structures & Algorithms:** Optimizing complex frontend state and rendering logic.
+### 👨‍💻 About Me
+
+I'm a Frontend and WordPress Developer with around 2.5 years of frontend-focused experience.
+
+I started my development journey with WordPress and gradually expanded my skills into frontend development. I enjoy transforming design ideas into responsive, functional websites and improving existing interfaces.
+
+- 💻 Working with HTML, CSS, JavaScript and WordPress.
+- 🎨 Building responsive layouts and user-friendly interfaces.
+- ⚡ Interested in website performance and UI optimization.
+- 🌱 Currently strengthening JavaScript and React.js.
+- 📚 Exploring TypeScript and Next.js.
+- 🎯 Interested in remote Frontend Developer and WordPress Developer opportunities.
 
 ---
 
-### 📬 Let's Connect
+### 🛠️ Technical Skills
 
-*   **LinkedIn:** [@nabojyoti-nath](www.linkedin.com/in/nabojyoti-nath)
-*   **X (Twitter):** [@Nabojyotinath](https://twitter.com/Nabojyotinath)
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Bootstrap
+- Tailwind CSS
+- Responsive Web Design
+
+**WordPress Development**
+- WordPress
+- Elementor
+- WooCommerce
+- Theme Customization
+- Website Optimization
+
+**Currently Learning**
+- React.js
+- TypeScript
+- Next.js
+
+**Development Tools**
+- Git
+- GitHub
+- VS Code
+- Chrome DevTools
+- REST APIs
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of my web development projects:
+
+| Project | Description | Technologies |
+|---|---|---|
+| HTML/CSS Projects | E-commerce website interface | HTML, CSS |
+| Plant Landing Page | Responsive landing page for a sustainable plant website | HTML, CSS |
+| Contact Page | Contact page UI implementation | HTML, CSS |
+| Clip Path Property | CSS clipping and layout experiment | HTML, CSS |
+
+Explore my repositories for more projects and code experiments.
+
+---
+
+### 📈 My Development Journey
+
+I'm continuously improving my frontend development skills through hands-on projects, problem-solving exercises, and practical website development.
+
+My focus is on writing maintainable code, understanding how interfaces work, and creating better experiences for users.
+
+---
+
+### 🤝 Let's Connect
+
+- **LinkedIn:** [Nabojyoti Nath](https://www.linkedin.com/in/nabojyoti-nath-852710168/)
+- **GitHub:** [@nabojyoti123](https://github.com/nabojyoti123)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
